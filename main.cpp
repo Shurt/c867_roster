@@ -2,7 +2,7 @@
 
 Author: Kyle Kuypers
 Student ID: 000432742
-Course: C867 - 
+Course: C867 - Scripting and Programming - Applications
 
 */
 
